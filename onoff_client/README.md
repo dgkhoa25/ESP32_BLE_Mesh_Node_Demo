@@ -9,7 +9,7 @@ This demo shows how to use the Generic OnOff Client Model to get/set the generic
 1. Download and run this demo.
 2. Use any app for BLE Mesh to provision this device as well as the device running the Generic OnOff Server demo.
 3. After both onoff client and server devices are provisioned, use UART1 to input the unicast address of the element within the server device.
-4. The Generic OnOff Client will start to get and set Generic OnOff states when the button GPIO0 is pressed and released.
+4. The Generic OnOff Client will start to get or set Generic OnOff states when the button GPIO0 is pressed and released.
 
 >**Notes:**
 >
